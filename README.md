@@ -1,4 +1,4 @@
-About The Project
+#About The Project
 Simple Reactjs quiz app
 
 Built With
